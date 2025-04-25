@@ -28,7 +28,6 @@ An intelligent and interactive learning platform that delivers **personalized le
 - Express.js  
 - MongoDB & Mongoose  
 - OpenAI API (for dynamic quiz & resource generation)
-- 
 ---
 
 ## 👨‍🏫 Usage Flow
